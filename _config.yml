@@ -72,8 +72,8 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   Stay safe, stay healthy, stay well.
 
-google_analytics: UA-218922207 # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_analytics: UA-218922207-1 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_site_verification:  azd82SkDVR9jVXnOjCFDfHYixBoeTj5DB4BLzinzsfQ # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
