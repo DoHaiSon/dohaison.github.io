@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-18 15:59:00-0400
+date: 2022-09-18 15:59:00-0400
 inline: true
 ---
 
-Presentation at REV-ECIT 2021: Đồng bộ nhiều SDR trong thực thi thuật toán ước lượng hướng sóng đến MUSIC.
+An internship student at the PRISME Laboratory - École polytechnique de l'université d'Orléans (Polytech Orléans).
