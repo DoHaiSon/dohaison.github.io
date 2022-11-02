@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Homepage
+title: Home
 permalink: /
 subtitle: <p><a href='https://uet.vnu.edu.vn/'>Master student at VNU-UET, Viet Nam</a></p>
           <p><a href='https://avitech.uet.vnu.edu.vn/en/'>Researcher at AVITECH, VNU-UET, Viet Nam</a></p>
@@ -9,9 +9,9 @@ profile:
   align: right
   image: avt.png
   address: >
-    <p>G2 Building, 144 Xuan Thuy</p>
-    <p>Street, Cau Giay District,</p>
-    <p>Ha Noi, VietNam.</p>
+    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>G2 Building, 144 Xuan Thuy</a></p>
+    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>Street, Cau Giay District,</a></p>
+    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>Ha Noi, VietNam.</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

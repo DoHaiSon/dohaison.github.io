@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Materials for courses own taught.
-nav: true
+nav: false
 ---
 
 Sep-Dec/2021 - **Teaching assistant**, ELT 3243: Principles of Communications (VNU University of Engineering and Technology)
