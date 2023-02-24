@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: SDR
+description: Software define radio for fun
+img: assets/img/4.jpg
+importance: 1
+category: Fun
 ---
 
 Every project has a beautiful feature showcase page.

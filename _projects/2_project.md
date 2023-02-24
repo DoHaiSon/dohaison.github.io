@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Blockchain Security
+description: Cyber-security for blockchain networks
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.

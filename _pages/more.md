@@ -10,5 +10,5 @@ children:
     - title: Teaching
       permalink: /teaching/
     - title: CV
-      permalink: /cv/
+      permalink: /assets/pdf/CV.pdf/
 ---

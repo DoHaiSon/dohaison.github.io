@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: InfoSysID
+description: "System identification: from blind to informed paradigm"
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Work
 ---
 
 Every project has a beautiful feature showcase page.
