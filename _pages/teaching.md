@@ -10,11 +10,16 @@ nav: false
 
 <h4>Latex & Microsoft Word template</h4> for VNU-UET Undergraduate & Master student in Vietnamese
 
-- Undergraduate student: [https://github.com/DoHaiSon/Graduate_Thesis](https://github.com/DoHaiSon/Graduate_Thesis)
+- Undergraduate student: 
+    - Thesis: [https://github.com/DoHaiSon/Graduate_Thesis](https://github.com/DoHaiSon/Graduate_Thesis)
 
-    - [Download Latex template](https://github.com/DoHaiSon/Graduate_Thesis/archive/refs/heads/master.zip)
+        - [Download Latex template](https://github.com/DoHaiSon/Graduate_Thesis/archive/refs/heads/master.zip)
 
-    - [Download Microsoft Word template](https://github.com/DoHaiSon/Graduate_Thesis/raw/master/Word_template.docx)
+        - [Download Microsoft Word template](https://github.com/DoHaiSon/Graduate_Thesis/raw/master/Word_template.docx)
+    
+    - Student Research Competition: [https://github.com/DoHaiSon/Student_Research](https://github.com/DoHaiSon/Student_Research)
+
+        - [Download Latex template](https://github.com/DoHaiSon/Student_Research/archive/refs/heads/master.zip)
 
 - Master student: [https://github.com/DoHaiSon/Master_Thesis](https://github.com/DoHaiSon/Master_Thesis)
 
