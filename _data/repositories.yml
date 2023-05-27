@@ -2,8 +2,8 @@ github_users:
   - DoHaiSon
 
 github_repos:
-  - DoHaiSon/WPS
+  - DoHaiSon/InfoSysID_Toolbox
   - DoHaiSon/gr-DoA_BladeRF
   - DoHaiSon/SDR_NC
   - DoHaiSon/SmartFac_ETH
-  - DoHaiSon/Graduate_Thesis
+  - DoHaiSon/WPS
