@@ -1,9 +1,9 @@
 ---
 layout: page
-title: InfoSysID
+title: InSI
 description: "System identification: from blind to informed paradigm"
-img: https://raw.githubusercontent.com/DoHaiSon/InfoSysID/master/assets/img/Intro.png
+img: https://raw.githubusercontent.com/DoHaiSon/InSI/docs/assets/img/Intro.png
 importance: 1
 category: Work
-redirect: https://dohaison.github.io/InfoSysID/
+redirect: https://dohaison.github.io/InSI
 ---
