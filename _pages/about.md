@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I obtained my B.E. degree in Electronics and Telecommunication Technology from University of Engineering and Technology, Vietnam National University - Hanoi, Vietnam in 2020. Now, I'm a second year master student at VNU-UET. My research interests: Wireless Communications, Blind Identification, IoT System in Industry 4.0, Blockchain Technology, Computer vision for Robotics.
+I obtained my B.E. and Master degree in Electronics and Telecommunication Technology from University of Engineering and Technology, Vietnam National University - Hanoi, Vietnam in 2020 and 2023, respectively. Now, I'm a researcher at [AVITECH](https://avitech.uet.vnu.edu.vn/en/), VNU-UET. My research interests: Cyber Security, Blockchain Technology, Wireless Communications, System Identification, IoT System in Industry 4.0, and Computer vision for Robotics.
 
 ### Mailing & Contact
 

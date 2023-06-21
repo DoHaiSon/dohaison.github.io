@@ -1,18 +1,11 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Quynh":
+  - firstname: ["Quynh", 'Tran Thi Thuy']
+    url: https://avitech.uet.vnu.edu.vn/en/dr-tran-thi-thuy-quynh/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Trung":
+  - firstname: ["Trung", "Nguyen Linh"]
+    url: https://avitech.uet.vnu.edu.vn/en/assoc-prof-nguyen-linh-trung/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Khoa":
+  - firstname: ["Khoa", "Tran Viet"]
+    url: https://avitech.uet.vnu.edu.vn/en/mr-tran-viet-khoa/
