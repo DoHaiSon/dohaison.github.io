@@ -78,7 +78,11 @@
                   {%- if child.title == 'divider' %}
                   <div class="dropdown-divider"></div>
                   {%- else %}
-                  <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
+                    {%- if child.newtab %}
+                    <a class="dropdown-item" href="{{ child.permalink | relative_url }}" target="_blank">{{ child.title }}</a>
+                    {%- else %}
+                      <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
+                    {%- endif -%}    
                   {%- endif -%}
                   {% endfor %}
                 </div>
