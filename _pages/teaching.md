@@ -29,6 +29,10 @@ nav: false
 
 <h4>Materials</h4>
 
+Sep-Nov/2023 - AIT 2003: Data Analysis with Python (VNU University of Engineering and Technology)
+
+Sep-Nov/2023 - INT 1008: Introduction to Programming (VNU University of Engineering and Technology)
+
 Sep-Dec/2021 - **Teaching assistant**, ELT 3243: Principles of Communications (VNU University of Engineering and Technology)
 
 Jul-Aug/2021 - **Teaching assistant**, ELT 2035: Signals and systems (VNU University of Engineering and Technology)
