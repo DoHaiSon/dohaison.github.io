@@ -10,9 +10,9 @@ profile:
   image: avt.png
   image_circular: true
   more_info: >
-    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>E3 Building, 144 Xuan Thuy</a></p>
-    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>Street, Cau Giay District,</a></p>
-    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>Ha Noi, VietNam.</a></p>
+    <p><a href='https://maps.app.goo.gl/kuCDzvHtZg4Rqcoa7'>E3 Building, 144 Xuan Thuy</a></p>
+    <p><a href='https://maps.app.goo.gl/kuCDzvHtZg4Rqcoa7'>Street, Cau Giay District,</a></p>
+    <p><a href='https://maps.app.goo.gl/kuCDzvHtZg4Rqcoa7'>Hanoi, VietNam.</a></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
