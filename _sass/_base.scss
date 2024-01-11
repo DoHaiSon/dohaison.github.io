@@ -648,7 +648,7 @@ footer.sticky-bottom {
   h2.bibliography {
     // color: var(--global-divider-color);
     color: var(--global-orange-color);
-    border-top: 1px solid var(--global-divider-color);
+    // border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
@@ -728,7 +728,7 @@ footer.sticky-bottom {
       .links {
         a.btn {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          border: 1px solid var(--global-divider-color);
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
@@ -1027,6 +1027,26 @@ nav[data-toggle="toc"] {
     height: 0;
     top: 0;
   }
+
+  /* Publications - Year display in mobile */
+  h2.year {
+    border-top: 1px solid var(--global-theme-color);
+    margin-bottom: 2rem!important;
+    // reset
+    border-top: 0 !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    color: var(--global-orange-color);
+  }
+}
+
+/* Bib type style */
+p.bibtitle {
+	color: var(--global-theme-color);
+  font-weight: 900;
+  font-size: 1.5em;
+  text-align: center;
+  border-top: 1px solid var(--global-theme-color);
 }
 
 .featured-posts {
