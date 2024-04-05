@@ -10,5 +10,6 @@ children:
     - title: Teaching
       permalink: /teaching/
     - title: CV
-      permalink: /cv/
+      newtab: true
+      permalink: /assets/pdf/CV.pdf
 ---

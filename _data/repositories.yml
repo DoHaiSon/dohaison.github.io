@@ -2,9 +2,9 @@ github_users:
   - DoHaiSon
 
 github_repos:
-  - DoHaiSon/CIB
-  - DoHaiSon/WPS
+  - DoHaiSon/InSI
   - DoHaiSon/gr-DoA_BladeRF
   - DoHaiSon/SDR_NC
   - DoHaiSon/SmartFac_ETH
-  - DoHaiSon/Graduate_Thesis
+  - DoHaiSon/WPS
+  - DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers

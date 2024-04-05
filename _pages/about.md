@@ -2,24 +2,22 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <p><a href='https://uet.vnu.edu.vn/'>Master student at VNU-UET, Viet Nam</a></p>
-          <p><a href='https://avitech.uet.vnu.edu.vn/en/'>Researcher at AVITECH, VNU-UET, Viet Nam</a></p>
+subtitle: <p><a href='https://iti.vnu.edu.vn/'>Researcher at Information Technology Institute (ITI), VNU, Vietnam</a></p>
+          <p><a href='https://avitech.uet.vnu.edu.vn/en/'>Researcher at AVITECH, VNU-UET, Vietnam</a></p>
 
 profile:
   align: right
   image: avt.png
-  address: >
-    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>G2 Building, 144 Xuan Thuy</a></p>
-    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>Street, Cau Giay District,</a></p>
-    <p><a href='https://goo.gl/maps/dEJgYRkT9JFjbRb69'>Ha Noi, VietNam.</a></p>
+  image_circular: true
+  more_info: >
+    <p><a href='https://maps.app.goo.gl/kuCDzvHtZg4Rqcoa7'>E3 Building, 144 Xuan Thuy</a></p>
+    <p><a href='https://maps.app.goo.gl/kuCDzvHtZg4Rqcoa7'>Street, Cau Giay District,</a></p>
+    <p><a href='https://maps.app.goo.gl/kuCDzvHtZg4Rqcoa7'>Hanoi, VietNam.</a></p>
 
 news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I obtained my B.E. degree in Electronics and Telecommunication Technology from University of Engineering and Technology, Vietnam National University - Hanoi, Vietnam in 2020. Now, I'm a second year master student at VNU-UET. My research interests: Wireless Communications, Blind Identification, IoT System in Industry 4.0, Blockchain Technology, Computer vision for Robotics.
-
-### Mailing & Contact
-
-Email: dohaison1998@gmail.com / dohaison1998@vnu.edu.vn
+I obtained my B.Sc. and Master degrees in Electronics and Telecommunications Technology from University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam in 2020 and 2023, respectively. Now, I'm a researcher at [ITI](https://iti.vnu.edu.vn/), Vietnam National University, Hanoi. My research interests include cyber security, blockchain technology, wireless communications, system identification, IoT system in Industry 4.0, and recently multi-object tracking.
