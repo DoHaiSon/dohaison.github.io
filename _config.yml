@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Son
-middle_name: H.
+middle_name: Hai
 last_name: Do
 email: dohaison1998@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -112,7 +112,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: DoHaiSon' Blog  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: The best time to act on this was decades ago. The second best time is now.
 permalink: /blog/:year/:title/
