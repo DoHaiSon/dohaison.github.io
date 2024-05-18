@@ -190,6 +190,9 @@
           {%- if entry.demo %}
             <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
           {%- endif %}
+          {%- if entry.data %}
+            <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Dataset</a>
+          {%- endif %}
           </div>
           {% if site.enable_publication_badges %}
           {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
