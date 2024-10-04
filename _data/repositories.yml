@@ -1,0 +1,14 @@
+github_users:
+  - DoHaiSon
+
+repo_description_lines_max: 3
+
+github_repos:
+  - DoHaiSon/InSI
+  - DoHaiSon/gr-DoA_BladeRF
+  - DoHaiSon/SDR_NC
+  - DoHaiSon/SmartFac_ETH
+  - DoHaiSon/WPS
+  - DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers
+  - DoHaiSon/CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation
+  - DoHaiSon/ISDNN
