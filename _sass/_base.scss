@@ -1078,6 +1078,11 @@ nav[data-toggle="toc"] {
   }
 }
 
+h2.bibliography {
+  margin-bottom: 0 !important;
+  margin-top: -0.5rem !important;
+}
+
 /* Bib type style */
 p.bibtitle {
 	color: var(--global-theme-color);
