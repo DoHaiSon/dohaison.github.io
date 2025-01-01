@@ -25,6 +25,10 @@ nav: false
 
     - [Download Latex template](https://github.com/DoHaiSon/Master_Thesis/archive/refs/heads/master.zip)
 
+- Beamer template: [https://github.com/DoHaiSon/Beamer_template](https://github.com/DoHaiSon/Beamer_template)
+
+    - [Download Latex template](https://github.com/DoHaiSon/Beamer_template/archive/refs/heads/master.zip)
+
 ---
 
 <h4>Materials</h4>
