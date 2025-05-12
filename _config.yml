@@ -10,7 +10,7 @@ email: dohaison1998@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Do Hai Son Homepage.
 footer_text: >
-keywords: dohaison, academic, portfolio  # add your own keywords or leave empty
+keywords: dohaison, haisondo, academic, portfolio  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: fav.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -96,7 +96,7 @@ research_gate_profile: # your profile on ResearchGate
 scholar_userid: 8LqmCjAAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
-spotify_id: eubc3nydapf12t1t72ix076n6 # your spotify id
+spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
