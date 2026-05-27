@@ -2,11 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 nav: true
 nav_order: 4
 sortby: true        # true: Sort by types | false: Sort by years
-years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019]
 sections:
   - bibquery: "@preprint"
     text: "Preprint articles"

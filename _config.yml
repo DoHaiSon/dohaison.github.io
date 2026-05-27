@@ -278,6 +278,8 @@ defaults:
 sass:
   style: compressed
   quiet_deps: true
+  silence_deprecations:
+    - import
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
