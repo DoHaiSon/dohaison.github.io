@@ -8,7 +8,7 @@ profile:
   image: avt.png
   image_circular: true
   more_info: >
-    <p><a href='https://g.co/kgs/AN8x6Q8'>Perth, WA, Australia</a></p>
+    <p><a href='https://maps.app.goo.gl/YPoJWQiaxErZTAwZ6'>Perth, WA, Australia</a></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
